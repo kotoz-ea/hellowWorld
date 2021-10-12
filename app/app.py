@@ -1,2 +1,2 @@
 def hello() -> None:
-    print("hello")
+    print("hello conflict")
